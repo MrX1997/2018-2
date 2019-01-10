@@ -1,0 +1,4 @@
+\documentclass[12pt, a4paper,spanish]{article}
+\usepackage{fullpage}  
+\usepackage[spanish]{babel}
+\usepackage{tikz} 
